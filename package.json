@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/montebon/SamTzyBypass/issues"
+		"url": "https://github.com/montebon/package.json/issues"
 	},
 	"keywords": [
 		"bot",
@@ -25,9 +25,9 @@
 	"author": "SamTzy",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/montebon/SamTzyBypass/issues"
+		"url": "https://github.com/montebon/package.json/issues"
 	},
-	"homepage": "https://github.com/montebon/SamTzyBypass/issues",
+	"homepage": "https://github.com/montebon/package.json/issues",
 	"dependencies": {
 		"@maihuybao/fca-unofficial": "^1.3.13-2",
 		"@miraipr0ject/assets": "",
