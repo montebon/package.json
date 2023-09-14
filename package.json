@@ -1,8 +1,8 @@
 {
 	"name": "SamTzy",
-	"version": "1.0.1",
-	"description": "A simple Facebook Messenger Bot made by SamTzy",
-	"main": "samtzy.js",
+	"version": "7.3.1",
+	"description": "A simple Facebook Messenger Bot Mod By SamTzy",
+	"main": "SamTzy.js",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
